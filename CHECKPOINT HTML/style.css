@@ -1,0 +1,75 @@
+.one{ font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight:normal;
+    font-style: normal;
+    color:aqua;font-size: large;
+    border: 5px solid beige;
+    text-align: center;
+    
+      
+    }
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            width: 200px;
+            background-color: #f1f1f1;
+          }
+          
+          li a {
+            display: block;
+            color: #000;
+            padding: 8px 16px;
+            text-decoration: none;
+          }
+          
+          /* Change the link color on hover */
+          li a:hover {
+            background-color: #555;
+            color: white;
+          }
+
+          nav{margin-left: 3cm;
+        
+    
+    }
+        
+          #three{font-family: "Roboto", sans-serif;
+            font-weight: 300;
+            font-style: normal;
+            font-size: medium;
+            color: black;
+            text-align: center ;
+            font-style: italic;
+            margin: 2cm;
+            border:8px color(srgb red green blue)
+            
+          }
+          body{
+            background-color: blue;
+          }
+          #myimage{  border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 5px;
+            width: 150px;
+          }
+           .five{position: sticky;
+            left: 0;
+            bottom: 0;
+            width: 70%;
+            background-color: red;
+            color: white;
+            text-align: center;
+        }
+     .work{ display: block;
+      margin-left: auto;
+      margin-right: auto;}
+      .video{width:20%;height:50%; ;}
+      .ds{font-style:italic;font-size: larger;}
+      .dw{  border: 1px solid #dddddd;
+        border-radius: 4px;
+        padding: 5px;
+        width: 50px;
+      }
+      .fgd{font-size: x-large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;;}
+      .vxs{float: right;}
